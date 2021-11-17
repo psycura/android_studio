@@ -1,6 +1,8 @@
 <application>
   <component name="UISettings">
     <option name="IDE_AA_TYPE" value="Greyscale" />
+    <option name="MAX_LOOKUP_LIST_HEIGHT" value="31" />
+    <option name="MAX_LOOKUP_WIDTH2" value="1455" />
     <option name="SHOW_MAIN_TOOLBAR" value="true" />
   </component>
 </application>
